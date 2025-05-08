@@ -2,4 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+processed_data
+*.Rmd
 /transkrypcje08052025
