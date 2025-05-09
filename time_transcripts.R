@@ -91,7 +91,7 @@ processed_data <- all_data %>%
 # Podgląd
 print(head(processed_data, 5))
 
-saveRDS(processed_data, "processed_data")
+saveRDS(processed_data, "processed_data.rds")
 
 
 
